@@ -1,0 +1,265 @@
+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
+
+ 4  pwd
+    5  ll -ls
+    6  clear
+    7  pwd
+    8  ls 
+    9  java
+   10  java -version
+   11  java -v
+   12  sudo su-4
+   13  sudo su-
+   14  sudo su
+   15  ls
+   16  cd git
+   17  cd git-demo
+   18  cd mtproject
+   19  ll -ls
+   20  git init
+   21  sudo git init
+   22  ll -ls
+   23  ll -l
+   24  ls
+   25  git status
+   26  ls
+   27  git --oneline
+   28  git -v
+   29  git log --oneline
+   30  ls
+   31  sudo rm hello.py
+   32  sudo rm numbers.py
+   33  sudo rm even.py
+   34  sudo rm hello
+   35  clear
+   36  ls
+   37  pwd
+   38  git init
+   39  sudo git init
+   40  ll -ls
+   41  pwd
+   42  ll -l
+   43  git status
+   44  sudo git config --global --add safe.directory /git-demo/mtproject
+   45  ll -ls
+   46  sudo git init
+   47  ls
+   48  ll -ls
+   49  clear
+   50  pwd
+   51  ll -ls
+   52  sudo su
+   53  ls
+   54  git -v
+   55  cd ?
+   56  cd /
+   57  pwd
+   58  ls
+   59  ll -ls
+   60  cd /git-demo/mtproject
+   61  pwd
+   62  ll -ls
+   63  git init
+   64  sudo git init
+   65  ll -ls
+   66  sudo vi numbers.py
+   67  python numbers.py
+   68  sudo vi numbers.py
+   69  python numbers.py
+   70  git status
+   71  git config --global --add safe.directory /git-demo/mtproject
+   72  git status
+   73  sudo git add numbers.py
+   74  sudo commit -m "numbers printed"
+   75  sudo git commit -m "numbers printed"
+   76  git status
+   77  sudo vi even.py
+   78  python even.py
+   79  ls
+   80  git stauts
+   81  git status
+   82  sudo git add even.py
+   83  sudo git commit -m "even numbers printed"
+   84  git stauts
+   85  git status
+   86  ls
+   87  git -ls-files
+   88  git -ls-file
+   89  git ls-file
+   90  git ls-files
+   91  git log -oneline
+   92  git log --oneline
+   93  sudo git branch b1 master
+   94  git status
+   95  git branch
+   96  git status
+   97  sudo git checkout b1
+   98  ls
+   99  git status
+  100  git log --oneline
+  101  sudo git checkout master
+  102  clear
+  103  sudo git branch b2 master
+  104  git status
+  105  git branch
+  106  vin old.y
+  107  sudo vi old.py
+  108  python old.py
+  109  sudo git add old
+  110  sudo git add old.py
+  111  sudo git commit -m "old numbers printed"
+  112  git config --global user.name "pk"
+  113  git config --global user.email pk@example.com
+  114  git status
+  115  ls
+  116  git ls-files
+  117  git log --oneline
+  118  sudo git checkout b2
+  119  git log --oneline
+  120  clear
+  121  git status
+  122  vim minus.py
+  123  sudo vim minus.py
+  124  python minus.py
+  125  sudo vim minus.py
+  126  python minus.py
+  127  sudo git add minus.py
+  128  sudo git commit -m "on b2"
+  129  git config --global user.name "pk"
+  130  git config --global user.email pk@example.com
+  131  git status
+  132  ls
+  133  clear
+  134  git log --online
+  135  git log --oneline
+  136  git log --oneline master
+  137  sudo git rebase master
+  138  git log --oneline b2
+  139  clear
+  140  sudo git remote add origin https://github.com/peterkl2020/pk.git
+  141  git remote -v
+  142  sudo push origin master
+  143  sudo git push origin master
+  144* 
+  145  sudo push origin master
+  146  git remote -v
+  147  sudo push origin master
+  148  sudo git push origin master
+  149  clear
+  150  git remote add origin https://github.com/peterkl2020/demo-git.git
+  151  git remote add demo https://github.com/peterkl2020/demo-git.git
+  152  sudo git remote add demo https://github.com/peterkl2020/demo-git.git
+  153  sudo git push demo
+  154  ls
+  155  git status
+  156  clear
+  157  sudo git push demo master
+  158  clear
+  159  git branch
+  160  sudo git branch -d b1
+  161  git branch
+  162  sudo git branch checkout master
+  163  git status
+  164  sudo git branch checkout 
+  165  git branch checkout
+  166  git  checkout master
+  167  sudo git  checkout master
+  168  sudo git branch b1 master
+  169  git status
+  170  git log --oneline b1
+  171  sudo git push demo b1
+  172  clear
+  173  sudo git branch -d b1
+  174  sudo git push demo --delete b1
+  175  clear
+  176  pwd
+  177  cd ..
+  178  sudo mkdir remote-project
+  179  cd remote-project
+  180  pwd
+  181  clear
+  182  sudo git clone https://github.com/peterkl2020/kp.git
+  183  ls
+  184  ll -al
+  185  cd kp
+  186  ls
+  187  ll -al
+  188  git remote -v
+  189  git status
+  190  git config --global --add safe.directory /git-demo/remote-project/kp
+  191  git remote -v
+  192  clear
+  193  sudo vi 2.py
+  194  python 2.py
+  195  sudo vi 2.py
+  196  python 2.py
+  197  sudo vi 2.py
+  198  python 2.py
+  199  ls
+  200  sudo git add 2.py
+  201  sudo git commit -m "2"
+  202   git config --global user.name "Your Name"pk
+  203   git config --global user.email you@example.compk
+  204  git status
+  205  git log --oneline
+  206  git ls-files
+  207  sudo commit -m "2"
+  208  git status
+  209  clear
+  210  sudo git remote origin https://github.com/peterkl2020/kp.git
+  211  git remote -v
+  212  sudo git remote origin master
+  213  clear
+  214  sudo git remote test https://github.com/peterkl2020/kp.git
+  215  sudo git push demo master
+  216  sudo git push demo-git master
+  217  sudo git push demo
+  218  clear
+  219  sudo git push demo-git master
+  220  ls
+  221  git remote -v
+  222  sudo git push origin master
+  223  clear
+  224  sudo git pull origin
+  225  ls
+  226  clear
+  227  sudo git fetch origin
+  228  ls
+  229  sudo git pull origin
+  230  ls
+  231  clear
+  232  ls
+  233  ll -al
+  234  clear
+  235  git branch --all
+  236  git diff master origin/master
+  237  clear
+  238  history
+  239  clear
+  240  sudo conflict.py
+  241  sudo vi conflict.py
+  242  git status
+  243  sudo git add conflict
+  244  sudo git add conflict.py
+  245  sudo git commit -m "files added"
+  246  git config --global user.name "pk
+
+  247  git config --global user.name "pk"
+  248   git config --global user.email you@example.compk
+  249  git status
+  250  clear
+  251  sudo git push origin
+  252  sudo git pull origin
+  253  clear
+  254  sudo vi conflict.py
+  255  sudo git push origin
+  256  sudo git pull origin
+  257  ls
+  258  git config pull.rebase false
+  259  sudo git config pull.rebase false
+  260  git status
+  261  sudo git pull origin
+  262  ls
+  263  sudo vi conflict.py
+  264  clear
+  265  history
